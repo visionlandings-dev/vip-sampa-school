@@ -77,28 +77,76 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "sampa.school — Inglês presencial em Interlagos, SP" },
+      {
+        name: "description",
+        content:
+          "Destrave seu inglês ainda este ano: turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos, com o método Oxford. Membro do sampa.group.",
+      },
+      { name: "author", content: "sampa.group" },
+      { property: "og:title", content: "sampa.school — Inglês presencial em Interlagos, SP" },
+      {
+        property: "og:description",
+        content:
+          "Turmas ultra reduzidas (4 a 6 alunos), 1 aula por semana, método Oxford. Garanta sua vaga pelo WhatsApp.",
+      },
+      { property: "og:site_name", content: "sampa.school" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
       {
         rel: "stylesheet",
         href: appCss,
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/favicon.png", type: "image/png" },
+      { rel: "preconnect", href: "https://fonts.googleapis.com" },
+      {
+        rel: "preconnect",
+        href: "https://fonts.gstatic.com",
+        crossOrigin: "anonymous",
+      },
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@700;800;900&display=swap",
+      },
     ],
+    scripts: buildAnalyticsScripts(),
   }),
   shellComponent: RootShell,
   component: RootComponent,
   notFoundComponent: NotFoundComponent,
   errorComponent: ErrorComponent,
 });
+
+// Tracking slots: set VITE_GTM_ID, VITE_GA4_ID and/or VITE_META_PIXEL_ID to
+// activate Google Tag Manager, GA4 and/or Meta Pixel. Inactive when unset.
+function buildAnalyticsScripts() {
+  const gtmId = import.meta.env.VITE_GTM_ID as string | undefined;
+  const ga4Id = import.meta.env.VITE_GA4_ID as string | undefined;
+  const pixelId = import.meta.env.VITE_META_PIXEL_ID as string | undefined;
+  const scripts: Array<Record<string, string>> = [];
+  if (gtmId) {
+    scripts.push({
+      children: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${gtmId}');`,
+    });
+  }
+  if (ga4Id) {
+    scripts.push({
+      src: `https://www.googletagmanager.com/gtag/js?id=${ga4Id}`,
+      async: "true",
+    });
+    scripts.push({
+      children: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}');`,
+    });
+  }
+  if (pixelId) {
+    scripts.push({
+      children: `!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','${pixelId}');fbq('track','PageView');`,
+    });
+  }
+  return scripts;
+}
 
 function RootShell({ children }: { children: ReactNode }) {
   return (
