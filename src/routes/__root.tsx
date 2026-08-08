@@ -122,9 +122,9 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 // Tracking slots: set VITE_GTM_ID, VITE_GA4_ID and/or VITE_META_PIXEL_ID to
 // activate Google Tag Manager, GA4 and/or Meta Pixel. Inactive when unset.
 function buildAnalyticsScripts() {
-  const gtmId = import.meta.env.VITE_GTM_ID as string | undefined;
-  const ga4Id = import.meta.env.VITE_GA4_ID as string | undefined;
-  const pixelId = import.meta.env.VITE_META_PIXEL_ID as string | undefined;
+  const gtmId = import.meta.env['VITE_GTM_ID'] as string | undefined;
+  const ga4Id = import.meta.env['VITE_GA4_ID'] as string | undefined;
+  const pixelId = import.meta.env['VITE_META_PIXEL_ID'] as string | undefined;
   const scripts: Array<Record<string, string>> = [];
   if (gtmId) {
     scripts.push({
