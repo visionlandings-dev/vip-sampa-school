@@ -93,6 +93,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:site_name", content: "sampa.school" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "msapplication-TileColor", content: "#ffffff" },
+      { name: "theme-color", content: "#ffffff" },
     ],
     links: [
       {
