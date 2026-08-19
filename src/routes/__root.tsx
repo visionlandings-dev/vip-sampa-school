@@ -78,14 +78,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "sampa.school — Inglês presencial em Interlagos, SP" },
+      { title: "sampa.school — Curso de Inglês com método Oxford" },
       {
         name: "description",
         content:
-          "Destrave seu inglês ainda este ano: turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos, com o método Oxford. Membro do sampa.group.",
+          "Destrave seu inglês ainda este ano: turmas presenciais ultra reduzidas (4 a 6 alunos) e turmas 100% online com o método Oxford. Membro do sampa.group.",
       },
       { name: "author", content: "sampa.group" },
-      { property: "og:title", content: "sampa.school — Inglês presencial em Interlagos, SP" },
+      { property: "og:title", content: "sampa.school — Curso de Inglês com método Oxford" },
       {
         property: "og:description",
         content:

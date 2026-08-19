@@ -4,9 +4,9 @@ export const pt = {
   htmlLang: "pt-BR",
   meta: {
     title:
-      "sampa.school — Curso de Inglês em Interlagos com método Oxford",
+      "sampa.school — Curso de Inglês com método Oxford",
     description:
-      "Turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas às quartas-feiras. Matrícula R$ 128.",
+      "Turmas presenciais ultra reduzidas (4 a 6 alunos) e turmas 100% online. Método American English File (Oxford), 16 semanas às quartas-feiras. Matrícula R$ 128.",
   },
   nav: {
     languageLabel: "Idioma",
@@ -21,7 +21,7 @@ export const pt = {
     quote:
       "\"São Paulo não para por quem não fala inglês. O seu ano vai continuar igual?\"",
     leadStart:
-      "Turmas presenciais ultra reduzidas (4 a 6 alunos) na Cidade Dutra - Interlagos. Aulas 1 vez por semana focadas 100% em conversação prática, utilizando a recém-lançada 4ª Edição do ",
+      "Turmas presenciais ultra reduzidas (4 a 6 alunos) e turmas 100% online. Aulas 1 vez por semana focadas 100% em conversação prática, utilizando a recém-lançada 4ª Edição do ",
     leadStrong: "American English File (Oxford)",
     leadEnd: ".",
     support:
@@ -129,7 +129,7 @@ export const pt = {
         preview:
           "Uma das grandes falhas dos aplicativos de idiomas isolados ou dos cursos gravados na internet é a ausência de calor humano e de interação real. Ninguém aprende a nadar lendo um livro sobre natação; é preciso pular na água...",
         expandLabel: "+ Ler Manifesto sobre Prática Humana",
-        body: "No inglês, a lógica é a mesma: para aprender a falar, é preciso praticar com pessoas reais. É por isso que a proposta pedagógica da sampa.school valoriza intensamente o convívio, a troca de experiências e a conexão entre alunos e professores. Nas nossas salas de aula interativas na Cidade Dutra, você encontrará turmas altamente exclusivas — com no mínimo 3 e no máximo 6 alunos. Essa configuração é o padrão ouro da educação moderna. Ela garante que a sala tenha dinamismo e diversidade de opiniões, mas mantém o grupo pequeno o suficiente para que o professor consiga dar atenção personalizada a cada estudante. Você não será apenas mais um número em um auditório lotado; você será um protagonista. Você desenvolverá as quatro habilidades fundamentais de forma integrada: 1. Speaking (Fala): através de debates dinâmicos e focados na vida real. 2. Listening (Compreensão Auditiva): expondo seus ouvidos a sotaques variados e áudios nativos. 3. Reading (Leitura): interpretando textos ricos e contemporâneos. 4. Writing (Escrita): estruturando e-mails, mensagens e redações com precisão. O ambiente das aulas é desenhado para ser leve, acolhedor, dinâmico e alegre. Nossos professores atuam como mentores de comunicação, incentivando a colaboração entre os colegas. Você descobrirá que os seus parceiros de turma compartilham das mesmas dores, medos e objetivos que você. Essa sinergia cria uma rede de apoio poderosa (um verdadeiro networking local), onde todos se ajudam a destravar a fala. O medo de passar vergonha evapora quando você percebe que está cercado de amigos em um ambiente psicologicamente seguro e focado na evolução mútua.",
+        body: "No inglês, a lógica é a mesma: para aprender a falar, é preciso praticar com pessoas reais. É por isso que a proposta pedagógica da sampa.school valoriza intensamente o convívio, a troca de experiências e a conexão entre alunos e professores. Nas nossas salas de aula interativas, você encontrará turmas altamente exclusivas — com no mínimo 3 e no máximo 6 alunos. Essa configuração é o padrão ouro da educação moderna. Ela garante que a sala tenha dinamismo e diversidade de opiniões, mas mantém o grupo pequeno o suficiente para que o professor consiga dar atenção personalizada a cada estudante. Você não será apenas mais um número em um auditório lotado; você será um protagonista. Você desenvolverá as quatro habilidades fundamentais de forma integrada: 1. Speaking (Fala): através de debates dinâmicos e focados na vida real. 2. Listening (Compreensão Auditiva): expondo seus ouvidos a sotaques variados e áudios nativos. 3. Reading (Leitura): interpretando textos ricos e contemporâneos. 4. Writing (Escrita): estruturando e-mails, mensagens e redações com precisão. O ambiente das aulas é desenhado para ser leve, acolhedor, dinâmico e alegre. Nossos professores atuam como mentores de comunicação, incentivando a colaboração entre os colegas. Você descobrirá que os seus parceiros de turma compartilham das mesmas dores, medos e objetivos que você. Essa sinergia cria uma rede de apoio poderosa (um verdadeiro networking local), onde todos se ajudam a destravar a fala. O medo de passar vergonha evapora quando você percebe que está cercado de amigos em um ambiente psicologicamente seguro e focado na evolução mútua.",
       },
       {
         title:
@@ -137,7 +137,7 @@ export const pt = {
         preview:
           "O pilar que sustenta toda a excelência da sampa.school é a nossa aliança estratégica com a Oxford University Press. Ao adotarmos a novíssima 4ª Edição do American English File, garantimos que você tenha em mãos o ecossistema de ensino mais respeitado do mundo...",
         expandLabel: "+ Ler Manifesto Metodológico Completo",
-        body: "O grande trunfo dessa coleção é que as lições não se limitam a ensinar regras gramaticais estéreis. Cada unidade funciona como uma verdadeira janela para o mundo, trazendo textos, documentários e discussões profundas sobre a cultura estrangeira, hábitos de diferentes países, culinária internacional, comportamento social e etiqueta corporativa global. Você aprende o idioma enquanto absorve o repertório cultural necessário para transitar com elegância por qualquer país. Além da riqueza do livro físico, você ganha acesso ao Oxford English Hub. Isso significa que a sua escola vai com você no bolso. O portal unificado traz a ferramenta Skills Confidence com exercícios de correção instantânea, vídeos práticos com situações do cotidiano e recursos modernos de treino de pronúncia. Na sala de aula, o professor utiliza o Classroom Presentation Tool, tornando os encontros dinâmicos, visuais e totalmente conectados com a tecnologia atual. É a união perfeita entre a tradição de Oxford e a modernidade digital. Como estamos celebrando a fundação da sampa.school e a abertura da nossa sede oficial na Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condições comerciais inéditas e absolutamente imperdíveis. Esta é a sua oportunidade única de fazer parte da nossa turma pioneira com valores promocionais de inauguração que nunca mais serão repetidos. A taxa de matrícula para garantia de vaga na turma é de apenas R$ 128,00 paga via PIX. O valor do investimento do módulo pode ser parcelado em 4 vezes, com vencimento fixo e simplificado para todo dia 7 de cada mês (de setembro a dezembro de 2026) via boleto bancário. As vagas para as turmas de quarta-feira (com início em 02 de setembro) são estritamente limitadas a 6 alunos por sala para preservar a qualidade premium do método. Não permita que a procrastinação roube mais um ano da sua vida. Dê o passo definitivo em direção à sua liberdade de comunicação. Garanta sua vaga e mude o seu destino com a sampa.school. O mundo está esperando pela sua voz!",
+        body: "O grande trunfo dessa coleção é que as lições não se limitam a ensinar regras gramaticais estéreis. Cada unidade funciona como uma verdadeira janela para o mundo, trazendo textos, documentários e discussões profundas sobre a cultura estrangeira, hábitos de diferentes países, culinária internacional, comportamento social e etiqueta corporativa global. Você aprende o idioma enquanto absorve o repertório cultural necessário para transitar com elegância por qualquer país. Além da riqueza do livro físico, você ganha acesso ao Oxford English Hub. Isso significa que a sua escola vai com você no bolso. O portal unificado traz a ferramenta Skills Confidence com exercícios de correção instantânea, vídeos práticos com situações do cotidiano e recursos modernos de treino de pronúncia. Na sala de aula, o professor utiliza o Classroom Presentation Tool, tornando os encontros dinâmicos, visuais e totalmente conectados com a tecnologia atual. É a união perfeita entre a tradição de Oxford e a modernidade digital. Como estamos celebrando a fundação da sampa.school e a abertura da nossa sede oficial na Rua Cristóvão Colombo Gonçalves, 422, preparamos condições comerciais inéditas e absolutamente imperdíveis. Esta é a sua oportunidade única de fazer parte da nossa turma pioneira com valores promocionais de inauguração que nunca mais serão repetidos. A taxa de matrícula para garantia de vaga na turma é de apenas R$ 128,00 paga via PIX. O valor do investimento do módulo pode ser parcelado em 4 vezes, com vencimento fixo e simplificado para todo dia 7 de cada mês (de setembro a dezembro de 2026) via boleto bancário. As vagas para as turmas de quarta-feira (com início em 02 de setembro) são estritamente limitadas a 6 alunos por sala para preservar a qualidade premium do método. Não permita que a procrastinação roube mais um ano da sua vida. Dê o passo definitivo em direção à sua liberdade de comunicação. Garanta sua vaga e mude o seu destino com a sampa.school. O mundo está esperando pela sua voz!",
       },
     ],
   },
@@ -213,7 +213,7 @@ export const pt = {
       },
       {
         q: "Onde acontecem as aulas presenciais? Tem fácil acesso?",
-        a: "Nossa sede física oficial fica na Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos. É uma região de facílimo acesso na Zona Sul, com total segurança e opções próximas para você chegar e focar 100% na sua aula.",
+        a: "Nossa sede física oficial fica na Rua Cristóvão Colombo Gonçalves, 422. Um espaço com total segurança e fácil acesso para você chegar e focar 100% na sua aula.",
       },
       {
         q: "Eu ganho algum certificado oficial ao final do curso?",
@@ -255,7 +255,7 @@ export const pt = {
     paragraphs: [
       "\"No ano que vem eu começo.\" \"Quando o trabalho acalmar, eu procuro um curso.\" \"Ainda não é o momento ideal.\" Quantas vezes você já repetiu essas frases para si mesmo nos últimos anos? A verdade nua e crua é que a rotina de São Paulo sempre será corrida e os imprevistos continuarão acontecendo.",
       "Adiar o inglês não é empurrar um curso para frente; é adiar sua promoção profissional, sua viagem internacional sem sufoco e a expansão da sua mente. O ano de 2026 está avançando rapidamente. Entrar no próximo ano com as mesmas promessas não cumpridas gera frustração.",
-      "Com o nosso Modelo Regular Híbrido, você só precisa estar na nossa sede física em Interlagos 1 vez por semana (80 minutos); o restante da sua prática de conversação acontece de forma flexível pelo celular. O tempo vai passar de qualquer maneira; a escolha de como você estará daqui a seis meses é estritamente sua.",
+      "Com o nosso Modelo Regular Híbrido, você só precisa estar na nossa sede física 1 vez por semana (80 minutos); o restante da sua prática de conversação acontece de forma flexível pelo celular. O tempo vai passar de qualquer maneira; a escolha de como você estará daqui a seis meses é estritamente sua.",
     ],
     finalStart:
       "Troque a desculpa pela sua matrícula. As vagas são estritamente limitadas a 6 alunos por sala. ",
@@ -266,13 +266,13 @@ export const pt = {
     member: "Membro do sampa.group",
     oxford: "Chancelaria de livros pela Oxford University Press",
     address:
-      "Sede Física Oficial: Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, São Paulo - SP",
+      "Sede Física Oficial: Rua Cristóvão Colombo Gonçalves, 422 – São Paulo - SP",
     rights: "Todos os direitos reservados. © 2026",
   },
   wa: {
     hero: "Olá! Quero garantir minha vaga promocional na sampa.school (Lote Inaugural).",
     visit:
-      "Olá! Quero conhecer a sede da sampa.school na Cidade Dutra, Interlagos.",
+      "Olá! Quero conhecer a sede da sampa.school em São Paulo.",
     career: "Olá! Quero destravar meu inglês profissional na sampa.school.",
     schedule:
       "Olá! Quero reservar minha vaga e escolher meu horário na sampa.school.",

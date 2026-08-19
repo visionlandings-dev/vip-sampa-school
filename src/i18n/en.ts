@@ -6,9 +6,9 @@ export const en: Dictionary = {
   htmlLang: "en",
   meta: {
     title:
-      "sampa.school — English Course in Interlagos with the Oxford Method",
+      "sampa.school — English Course with the Oxford Method",
     description:
-      "In-person classes of 4 to 6 students in Cidade Dutra, Interlagos. American English File (Oxford) method, 16 weeks on Wednesdays. Enrollment fee R$ 128.",
+      "Ultra-small in-person classes (4 to 6 students) and 100% online classes. American English File (Oxford) method, 16 weeks on Wednesdays. Enrollment fee R$ 128.",
   },
   nav: {
     languageLabel: "Language",
@@ -23,7 +23,7 @@ export const en: Dictionary = {
     quote:
       "\"São Paulo doesn't stop for those who don't speak English. Will your year stay the same?\"",
     leadStart:
-      "Ultra-small in-person classes (4 to 6 students) in Cidade Dutra - Interlagos. Classes once a week, 100% focused on practical conversation, using the newly released 4th Edition of ",
+      "Ultra-small in-person classes (4 to 6 students) and 100% online classes. Classes once a week, 100% focused on practical conversation, using the newly released 4th Edition of ",
     leadStrong: "American English File (Oxford)",
     leadEnd: ".",
     support:
@@ -131,7 +131,7 @@ export const en: Dictionary = {
         preview:
           "One of the biggest flaws of standalone language apps or recorded online courses is the lack of human warmth and real interaction. No one learns to swim by reading a book about swimming; you have to jump in the water...",
         expandLabel: "+ Read the Manifesto on Human Practice",
-        body: "With English, the logic is the same: to learn to speak, you need to practice with real people. That's why sampa.school's teaching approach places heavy value on connection, the exchange of experiences, and the relationship between students and teachers. In our interactive classrooms in Cidade Dutra, you'll find highly exclusive classes — with a minimum of 3 and a maximum of 6 students. This setup is the gold standard of modern education. It ensures the room has energy and a diversity of opinions, while keeping the group small enough for the teacher to give personalized attention to every student. You won't be just another number in a packed auditorium; you'll be a protagonist. You'll develop the four fundamental skills in an integrated way: 1. Speaking: through dynamic debates focused on real life. 2. Listening: exposing your ears to varied accents and native audio. 3. Reading: interpreting rich, contemporary texts. 4. Writing: structuring emails, messages, and essays with precision. The classroom environment is designed to be light, welcoming, dynamic, and fun. Our teachers act as communication mentors, encouraging collaboration among classmates. You'll discover that your classmates share the same struggles, fears, and goals as you. This synergy creates a powerful support network (real local networking), where everyone helps each other unlock speech. The fear of embarrassment fades away when you realize you're surrounded by friends in a psychologically safe environment focused on mutual growth.",
+        body: "With English, the logic is the same: to learn to speak, you need to practice with real people. That's why sampa.school's teaching approach places heavy value on connection, the exchange of experiences, and the relationship between students and teachers. In our interactive classrooms, you'll find highly exclusive classes — with a minimum of 3 and a maximum of 6 students. This setup is the gold standard of modern education. It ensures the room has energy and a diversity of opinions, while keeping the group small enough for the teacher to give personalized attention to every student. You won't be just another number in a packed auditorium; you'll be a protagonist. You'll develop the four fundamental skills in an integrated way: 1. Speaking: through dynamic debates focused on real life. 2. Listening: exposing your ears to varied accents and native audio. 3. Reading: interpreting rich, contemporary texts. 4. Writing: structuring emails, messages, and essays with precision. The classroom environment is designed to be light, welcoming, dynamic, and fun. Our teachers act as communication mentors, encouraging collaboration among classmates. You'll discover that your classmates share the same struggles, fears, and goals as you. This synergy creates a powerful support network (real local networking), where everyone helps each other unlock speech. The fear of embarrassment fades away when you realize you're surrounded by friends in a psychologically safe environment focused on mutual growth.",
       },
       {
         title:
@@ -139,7 +139,7 @@ export const en: Dictionary = {
         preview:
           "The pillar that supports all of sampa.school's excellence is our strategic alliance with Oxford University Press. By adopting the brand-new 4th Edition of American English File, we guarantee you have in your hands the most respected teaching ecosystem in the world...",
         expandLabel: "+ Read the Full Methodology Manifesto",
-        body: "The great advantage of this collection is that its lessons aren't limited to teaching sterile grammar rules. Each unit acts as a true window to the world, bringing texts, documentaries, and in-depth discussions on foreign culture, habits from different countries, international cuisine, social behavior, and global corporate etiquette. You learn the language while absorbing the cultural repertoire needed to move confidently through any country. Beyond the richness of the physical book, you get access to the Oxford English Hub. This means your school travels with you in your pocket. The unified portal brings the Skills Confidence tool with instant-feedback exercises, practical videos with everyday situations, and modern pronunciation training resources. In the classroom, the teacher uses the Classroom Presentation Tool, making sessions dynamic, visual, and fully connected to today's technology. It's the perfect union between Oxford's tradition and digital modernity. As we celebrate the founding of sampa.school and the opening of our official campus at Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, we've prepared unprecedented, absolutely can't-miss commercial conditions. This is your unique chance to be part of our pioneer class with launch promotional rates that will never be repeated again. The enrollment fee to secure your spot in the class is just R$ 128,00, paid via PIX. The module investment can be split into 4 installments, with a fixed, simplified due date on the 7th of every month (from September to December 2026) via bank slip. Spots for the Wednesday classes (starting September 02) are strictly limited to 6 students per room to preserve the premium quality of the method. Don't let procrastination steal another year of your life. Take the definitive step toward your freedom of communication. Secure your spot and change your destiny with sampa.school. The world is waiting for your voice!",
+        body: "The great advantage of this collection is that its lessons aren't limited to teaching sterile grammar rules. Each unit acts as a true window to the world, bringing texts, documentaries, and in-depth discussions on foreign culture, habits from different countries, international cuisine, social behavior, and global corporate etiquette. You learn the language while absorbing the cultural repertoire needed to move confidently through any country. Beyond the richness of the physical book, you get access to the Oxford English Hub. This means your school travels with you in your pocket. The unified portal brings the Skills Confidence tool with instant-feedback exercises, practical videos with everyday situations, and modern pronunciation training resources. In the classroom, the teacher uses the Classroom Presentation Tool, making sessions dynamic, visual, and fully connected to today's technology. It's the perfect union between Oxford's tradition and digital modernity. As we celebrate the founding of sampa.school and the opening of our official campus at Rua Cristóvão Colombo Gonçalves, 422, we've prepared unprecedented, absolutely can't-miss commercial conditions. This is your unique chance to be part of our pioneer class with launch promotional rates that will never be repeated again. The enrollment fee to secure your spot in the class is just R$ 128,00, paid via PIX. The module investment can be split into 4 installments, with a fixed, simplified due date on the 7th of every month (from September to December 2026) via bank slip. Spots for the Wednesday classes (starting September 02) are strictly limited to 6 students per room to preserve the premium quality of the method. Don't let procrastination steal another year of your life. Take the definitive step toward your freedom of communication. Secure your spot and change your destiny with sampa.school. The world is waiting for your voice!",
       },
     ],
   },
@@ -215,7 +215,7 @@ export const en: Dictionary = {
       },
       {
         q: "Where do in-person classes take place? Is it easy to get to?",
-        a: "Our official campus is located at Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos. It's an easily accessible area in the South Zone, safe and with plenty of nearby options so you can arrive and focus 100% on your class.",
+        a: "Our official campus is located at Rua Cristóvão Colombo Gonçalves, 422. It's a safe, easily accessible space so you can arrive and focus 100% on your class.",
       },
       {
         q: "Do I get an official certificate at the end of the course?",
@@ -257,7 +257,7 @@ export const en: Dictionary = {
     paragraphs: [
       "\"I'll start next year.\" \"When work calms down, I'll look for a course.\" \"It's still not the right time.\" How many times have you told yourself these things in recent years? The harsh truth is that São Paulo's routine will always be busy and the unexpected will keep happening.",
       "Postponing English isn't just pushing back a course; it's postponing your career promotion, your stress-free international trip, and the expansion of your mind. The year 2026 is moving fast. Starting the next year with the same broken promises only creates frustration.",
-      "With our Hybrid Regular Model, you only need to be at our physical campus in Interlagos once a week (80 minutes); the rest of your conversation practice happens flexibly on your phone. Time will pass regardless; the choice of who you'll be six months from now is entirely up to you.",
+      "With our Hybrid Regular Model, you only need to be at our physical campus once a week (80 minutes); the rest of your conversation practice happens flexibly on your phone. Time will pass regardless; the choice of who you'll be six months from now is entirely up to you.",
     ],
     finalStart:
       "Trade your excuse for your enrollment. Spots are strictly limited to 6 students per class. ",
@@ -268,13 +268,13 @@ export const en: Dictionary = {
     member: "Member of sampa.group",
     oxford: "Books endorsed by Oxford University Press",
     address:
-      "Official Campus: Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, São Paulo - SP",
+      "Official Campus: Rua Cristóvão Colombo Gonçalves, 422 – São Paulo - SP",
     rights: "All rights reserved. © 2026",
   },
   wa: {
     hero: "Hi! I want to secure my promotional spot at sampa.school (Founding Batch).",
     visit:
-      "Hi! I'd like to visit sampa.school's campus in Cidade Dutra, Interlagos.",
+      "Hi! I'd like to visit sampa.school's campus in São Paulo.",
     career: "Hi! I want to unlock my professional English at sampa.school.",
     schedule:
       "Hi! I want to reserve my spot and choose my schedule at sampa.school.",
