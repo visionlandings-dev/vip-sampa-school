@@ -1,6 +1,6 @@
 # Plano — Landing Page sampa.school (v4 definitiva)
 
-Landing page de alta conversão, página única em `/`, seguindo 100% a especificação v4 (4ª edição). Todo o copy vem do documento aprovado. Sem backend: conversão 100% via WhatsApp da Jéssica (**wa.me/5511936241913**), cada um dos 5 botões com mensagem pré-preenchida própria.
+Landing page de alta conversão, página única em `/`, seguindo 100% a especificação v4 (4ª edição). Todo o copy vem do documento aprovado. Sem backend: conversão 100% via WhatsApp da Jéssica (**wa.me/5511961057012**), cada um dos 5 botões com mensagem pré-preenchida própria.
 
 ## Identidade visual (tokens em `src/styles.css`)
 
