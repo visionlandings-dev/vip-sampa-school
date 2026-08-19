@@ -6,7 +6,7 @@ export const pt = {
     title:
       "sampa.school — Curso de Inglês em Interlagos com método Oxford",
     description:
-      "Turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas às quartas-feiras. Matrícula R$ 78.",
+      "Turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas às quartas-feiras. Matrícula R$ 128.",
   },
   nav: {
     languageLabel: "Idioma",
@@ -49,7 +49,7 @@ export const pt = {
       },
       {
         title: "Preço Transparente, Justo e Sem Surpresas",
-        copy: "Sem contratos de fidelidade abusivos ou taxas escondidas. Taxa de matrícula única de R$ 78,00 em agosto. Mensalidades fixas promocionais com bônus de pontualidade para pagamentos em dia. O valor promocional é exclusivo para as primeiras 30 vagas.",
+        copy: "Sem contratos de fidelidade abusivos ou taxas escondidas. Taxa de matrícula única de R$ 128,00 em agosto. Mensalidades fixas promocionais com bônus de pontualidade para pagamentos em dia. O valor promocional é exclusivo para as primeiras 30 vagas.",
       },
     ],
     cta: "MANDA UMA MENSAGEM E VENHA CONHECER A SEDE",
@@ -137,7 +137,7 @@ export const pt = {
         preview:
           "O pilar que sustenta toda a excelência da sampa.school é a nossa aliança estratégica com a Oxford University Press. Ao adotarmos a novíssima 4ª Edição do American English File, garantimos que você tenha em mãos o ecossistema de ensino mais respeitado do mundo...",
         expandLabel: "+ Ler Manifesto Metodológico Completo",
-        body: "O grande trunfo dessa coleção é que as lições não se limitam a ensinar regras gramaticais estéreis. Cada unidade funciona como uma verdadeira janela para o mundo, trazendo textos, documentários e discussões profundas sobre a cultura estrangeira, hábitos de diferentes países, culinária internacional, comportamento social e etiqueta corporativa global. Você aprende o idioma enquanto absorve o repertório cultural necessário para transitar com elegância por qualquer país. Além da riqueza do livro físico, você ganha acesso ao Oxford English Hub. Isso significa que a sua escola vai com você no bolso. O portal unificado traz a ferramenta Skills Confidence com exercícios de correção instantânea, vídeos práticos com situações do cotidiano e recursos modernos de treino de pronúncia. Na sala de aula, o professor utiliza o Classroom Presentation Tool, tornando os encontros dinâmicos, visuais e totalmente conectados com a tecnologia atual. É a união perfeita entre a tradição de Oxford e a modernidade digital. Como estamos celebrando a fundação da sampa.school e a abertura da nossa sede oficial na Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condições comerciais inéditas e absolutamente imperdíveis. Esta é a sua oportunidade única de fazer parte da nossa turma pioneira com valores promocionais de inauguração que nunca mais serão repetidos. A taxa de matrícula para garantia de vaga na turma é de apenas R$ 78,00 paga via PIX. O valor do investimento do módulo pode ser parcelado em 4 vezes, com vencimento fixo e simplificado para todo dia 7 de cada mês (de setembro a dezembro de 2026) via boleto bancário. As vagas para as turmas de quarta-feira (com início em 02 de setembro) são estritamente limitadas a 6 alunos por sala para preservar a qualidade premium do método. Não permita que a procrastinação roube mais um ano da sua vida. Dê o passo definitivo em direção à sua liberdade de comunicação. Garanta sua vaga e mude o seu destino com a sampa.school. O mundo está esperando pela sua voz!",
+        body: "O grande trunfo dessa coleção é que as lições não se limitam a ensinar regras gramaticais estéreis. Cada unidade funciona como uma verdadeira janela para o mundo, trazendo textos, documentários e discussões profundas sobre a cultura estrangeira, hábitos de diferentes países, culinária internacional, comportamento social e etiqueta corporativa global. Você aprende o idioma enquanto absorve o repertório cultural necessário para transitar com elegância por qualquer país. Além da riqueza do livro físico, você ganha acesso ao Oxford English Hub. Isso significa que a sua escola vai com você no bolso. O portal unificado traz a ferramenta Skills Confidence com exercícios de correção instantânea, vídeos práticos com situações do cotidiano e recursos modernos de treino de pronúncia. Na sala de aula, o professor utiliza o Classroom Presentation Tool, tornando os encontros dinâmicos, visuais e totalmente conectados com a tecnologia atual. É a união perfeita entre a tradição de Oxford e a modernidade digital. Como estamos celebrando a fundação da sampa.school e a abertura da nossa sede oficial na Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condições comerciais inéditas e absolutamente imperdíveis. Esta é a sua oportunidade única de fazer parte da nossa turma pioneira com valores promocionais de inauguração que nunca mais serão repetidos. A taxa de matrícula para garantia de vaga na turma é de apenas R$ 128,00 paga via PIX. O valor do investimento do módulo pode ser parcelado em 4 vezes, com vencimento fixo e simplificado para todo dia 7 de cada mês (de setembro a dezembro de 2026) via boleto bancário. As vagas para as turmas de quarta-feira (com início em 02 de setembro) são estritamente limitadas a 6 alunos por sala para preservar a qualidade premium do método. Não permita que a procrastinação roube mais um ano da sua vida. Dê o passo definitivo em direção à sua liberdade de comunicação. Garanta sua vaga e mude o seu destino com a sampa.school. O mundo está esperando pela sua voz!",
       },
     ],
   },
@@ -159,7 +159,6 @@ export const pt = {
     ],
     timesTitle: "Grade de Horários Oficiais (todas as quartas-feiras)",
     times: [
-      "13h45 às 15h05",
       "15h15 às 16h35",
       "16h50 às 18h10",
       "18h30 às 19h50",
@@ -169,7 +168,7 @@ export const pt = {
       "O nível ideal da sua turma é definido no atendimento com a nossa coordenação.",
     lotsTitle: "O Modelo de Lotes Comerciais e Bônus Pontualidade",
     enrollLabel: "Matrícula fixa (todos os alunos):",
-    enrollValue: "R$ 78,00",
+    enrollValue: "R$ 128,00",
     enrollNote: "À vista via PIX para reserva e garantia de vaga.",
     lotBadge: "Últimas vagas do Lote Inaugural",
     lot1Title: "Lote Inaugural (alunos 1 a 30)",
@@ -234,7 +233,6 @@ export const pt = {
     timeLabel: "Qual dia e horário você prefere?",
     timePlaceholder: "Selecione um horário",
     timeOptions: [
-      "Quartas-feiras | 13h45 às 15h05",
       "Quartas-feiras | 15h15 às 16h35",
       "Quartas-feiras | 16h50 às 18h10",
       "Quartas-feiras | 18h30 às 19h50",

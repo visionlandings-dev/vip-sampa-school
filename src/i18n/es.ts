@@ -8,7 +8,7 @@ export const es: Dictionary = {
     title:
       "sampa.school — Curso de Inglés en Interlagos con método Oxford",
     description:
-      "Clases presenciales de 4 a 6 alumnos en Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas los miércoles. Matrícula R$ 78.",
+      "Clases presenciales de 4 a 6 alumnos en Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas los miércoles. Matrícula R$ 128.",
   },
   nav: {
     languageLabel: "Idioma",
@@ -51,7 +51,7 @@ export const es: Dictionary = {
       },
       {
         title: "Precio Transparente, Justo y Sin Sorpresas",
-        copy: "Sin contratos de permanencia abusivos ni tarifas ocultas. Cuota de matrícula única de R$ 78,00 en agosto. Mensualidades fijas promocionales con bono de puntualidad para pagos al día. El valor promocional es exclusivo para los primeros 30 cupos.",
+        copy: "Sin contratos de permanencia abusivos ni tarifas ocultas. Cuota de matrícula única de R$ 128,00 en agosto. Mensualidades fijas promocionales con bono de puntualidad para pagos al día. El valor promocional es exclusivo para los primeros 30 cupos.",
       },
     ],
     cta: "MANDA UN MENSAJE Y VEN A CONOCER LA SEDE",
@@ -139,7 +139,7 @@ export const es: Dictionary = {
         preview:
           "El pilar que sostiene toda la excelencia de sampa.school es nuestra alianza estratégica con Oxford University Press. Al adoptar la novísima 4ª Edición de American English File, garantizamos que tengas en tus manos el ecosistema de enseñanza más respetado del mundo...",
         expandLabel: "+ Leer Manifiesto Metodológico Completo",
-        body: "La gran ventaja de esta colección es que las lecciones no se limitan a enseñar reglas gramaticales estériles. Cada unidad funciona como una verdadera ventana al mundo, trayendo textos, documentales y discusiones profundas sobre la cultura extranjera, los hábitos de diferentes países, la gastronomía internacional, el comportamiento social y la etiqueta corporativa global. Aprendes el idioma mientras absorbes el repertorio cultural necesario para desenvolverte con elegancia en cualquier país. Además de la riqueza del libro físico, obtienes acceso al Oxford English Hub. Esto significa que tu escuela va contigo en el bolsillo. El portal unificado trae la herramienta Skills Confidence con ejercicios de corrección instantánea, videos prácticos con situaciones cotidianas y recursos modernos de entrenamiento de pronunciación. En el salón de clase, el profesor utiliza el Classroom Presentation Tool, haciendo que los encuentros sean dinámicos, visuales y totalmente conectados con la tecnología actual. Es la unión perfecta entre la tradición de Oxford y la modernidad digital. Como estamos celebrando la fundación de sampa.school y la apertura de nuestra sede oficial en la Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condiciones comerciales inéditas y absolutamente imperdibles. Esta es tu oportunidad única de formar parte de nuestro grupo pionero con valores promocionales de inauguración que nunca más se repetirán. La cuota de matrícula para asegurar tu cupo en el grupo es de solo R$ 78,00 pagada vía PIX. El valor de la inversión del módulo puede pagarse en 4 cuotas, con vencimiento fijo y simplificado para el día 7 de cada mes (de septiembre a diciembre de 2026) vía boleto bancario. Los cupos para los grupos de los miércoles (con inicio el 02 de septiembre) están estrictamente limitados a 6 alumnos por salón para preservar la calidad premium del método. No dejes que la procrastinación te robe otro año de tu vida. Da el paso definitivo hacia tu libertad de comunicación. Asegura tu cupo y cambia tu destino con sampa.school. ¡El mundo está esperando tu voz!",
+        body: "La gran ventaja de esta colección es que las lecciones no se limitan a enseñar reglas gramaticales estériles. Cada unidad funciona como una verdadera ventana al mundo, trayendo textos, documentales y discusiones profundas sobre la cultura extranjera, los hábitos de diferentes países, la gastronomía internacional, el comportamiento social y la etiqueta corporativa global. Aprendes el idioma mientras absorbes el repertorio cultural necesario para desenvolverte con elegancia en cualquier país. Además de la riqueza del libro físico, obtienes acceso al Oxford English Hub. Esto significa que tu escuela va contigo en el bolsillo. El portal unificado trae la herramienta Skills Confidence con ejercicios de corrección instantánea, videos prácticos con situaciones cotidianas y recursos modernos de entrenamiento de pronunciación. En el salón de clase, el profesor utiliza el Classroom Presentation Tool, haciendo que los encuentros sean dinámicos, visuales y totalmente conectados con la tecnología actual. Es la unión perfecta entre la tradición de Oxford y la modernidad digital. Como estamos celebrando la fundación de sampa.school y la apertura de nuestra sede oficial en la Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condiciones comerciales inéditas y absolutamente imperdibles. Esta es tu oportunidad única de formar parte de nuestro grupo pionero con valores promocionales de inauguración que nunca más se repetirán. La cuota de matrícula para asegurar tu cupo en el grupo es de solo R$ 128,00 pagada vía PIX. El valor de la inversión del módulo puede pagarse en 4 cuotas, con vencimiento fijo y simplificado para el día 7 de cada mes (de septiembre a diciembre de 2026) vía boleto bancario. Los cupos para los grupos de los miércoles (con inicio el 02 de septiembre) están estrictamente limitados a 6 alumnos por salón para preservar la calidad premium del método. No dejes que la procrastinación te robe otro año de tu vida. Da el paso definitivo hacia tu libertad de comunicación. Asegura tu cupo y cambia tu destino con sampa.school. ¡El mundo está esperando tu voz!",
       },
     ],
   },
@@ -161,7 +161,6 @@ export const es: Dictionary = {
     ],
     timesTitle: "Grilla de Horarios Oficiales (todos los miércoles)",
     times: [
-      "13:45 a 15:05",
       "15:15 a 16:35",
       "16:50 a 18:10",
       "18:30 a 19:50",
@@ -171,7 +170,7 @@ export const es: Dictionary = {
       "El nivel ideal de tu grupo se define en la atención con nuestra coordinación.",
     lotsTitle: "El Modelo de Lotes Comerciales y Bono de Puntualidad",
     enrollLabel: "Matrícula fija (todos los alumnos):",
-    enrollValue: "R$ 78,00",
+    enrollValue: "R$ 128,00",
     enrollNote: "Al contado vía PIX para reservar y asegurar tu cupo.",
     lotBadge: "Últimos cupos del Lote Inaugural",
     lot1Title: "Lote Inaugural (alumnos 1 a 30)",
@@ -236,7 +235,6 @@ export const es: Dictionary = {
     timeLabel: "¿Qué día y horario prefieres?",
     timePlaceholder: "Selecciona un horario",
     timeOptions: [
-      "Miércoles | 13:45 a 15:05",
       "Miércoles | 15:15 a 16:35",
       "Miércoles | 16:50 a 18:10",
       "Miércoles | 18:30 a 19:50",
