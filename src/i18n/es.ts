@@ -245,7 +245,7 @@ export const es: Dictionary = {
       "Miércoles | 20:00 a 21:20",
       "Otro día y horario",
     ],
-    submit: "ENVIAR Y RESERVAR MI CUPO DE INAUGURACIÓN",
+    submit: "ENVIAR Y RESERVAR MI CUPO",
     errorName: "Ingresa tu nombre completo",
     errorNameLong: "Nombre demasiado largo",
     errorPhone: "Ingresa un WhatsApp válido con código de área",
