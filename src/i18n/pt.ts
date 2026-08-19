@@ -37,7 +37,7 @@ export const pt = {
     items: [
       {
         title: "Turmas Ultra Reduzidas (4 a 6 alunos)",
-        copy: "Escolas tradicionais colocam de 15 a 20 pessoas na sala de aula. Na sampa.school, o nosso limite rígido é de no máximo 6 alunos por sala. Isso garante que você tenha espaço real para falar e pratique conversação ativa em 100% do tempo de aula.",
+        copy: "Escolas tradicionais colocam de 15 a 20 pessoas na sala de aula. Na sampa.school, o nosso limite rígido é de no máximo 6 alunos por turma. Você escolhe entre a turma presencial de 4 a 6 alunos ou a turma 100% online ao vivo, sempre com professor e foco total em conversação.",
       },
       {
         title: "Parceria Internacional Oxford (4ª Edição + Hub)",
@@ -52,7 +52,7 @@ export const pt = {
         copy: "Sem contratos de fidelidade abusivos ou taxas escondidas. Taxa de matrícula única de R$ 128,00 em agosto. Mensalidades fixas promocionais com bônus de pontualidade para pagamentos em dia. O valor promocional é exclusivo para as primeiras 30 vagas.",
       },
     ],
-    cta: "MANDA UMA MENSAGEM E VENHA CONHECER A SEDE",
+    cta: "FALE COM A GENTE E ESCOLHA SEU FORMATO",
   },
   ecosystem: {
     headingStart: "Ninguém aprende a nadar fora da água. ",
@@ -214,6 +214,10 @@ export const pt = {
       {
         q: "Onde acontecem as aulas presenciais? Tem fácil acesso?",
         a: "Nossa sede física oficial fica na Rua Cristóvão Colombo Gonçalves, 422. Um espaço com total segurança e fácil acesso para você chegar e focar 100% na sua aula.",
+      },
+      {
+        q: "As turmas online são ao vivo ou gravadas?",
+        a: "100% ao vivo, com professor e interação real, mesma metodologia Oxford das aulas presenciais.",
       },
       {
         q: "Eu ganho algum certificado oficial ao final do curso?",
