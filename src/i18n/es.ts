@@ -47,7 +47,7 @@ export const es: Dictionary = {
       },
       {
         title: "Cronograma Productivo de 17 Semanas",
-        copy: "Nuestro semestre lectivo va de fines de agosto a mediados de diciembre. Mapeamos el calendario del segundo semestre de 2026 y no habrá ningún feriado cayendo en miércoles. Tu ritmo de aprendizaje y evolución no sufrirá ninguna interrupción.",
+        copy: "Nuestro semestre lectivo va de principios de septiembre a mediados de diciembre. Mapeamos el calendario del segundo semestre de 2026 y no habrá ningún feriado cayendo en miércoles. Tu ritmo de aprendizaje y evolución no sufrirá ninguna interrupción.",
       },
       {
         title: "Precio Transparente, Justo y Sin Sorpresas",
@@ -139,7 +139,7 @@ export const es: Dictionary = {
         preview:
           "El pilar que sostiene toda la excelencia de sampa.school es nuestra alianza estratégica con Oxford University Press. Al adoptar la novísima 4ª Edición de American English File, garantizamos que tengas en tus manos el ecosistema de enseñanza más respetado del mundo...",
         expandLabel: "+ Leer Manifiesto Metodológico Completo",
-        body: "La gran ventaja de esta colección es que las lecciones no se limitan a enseñar reglas gramaticales estériles. Cada unidad funciona como una verdadera ventana al mundo, trayendo textos, documentales y discusiones profundas sobre la cultura extranjera, los hábitos de diferentes países, la gastronomía internacional, el comportamiento social y la etiqueta corporativa global. Aprendes el idioma mientras absorbes el repertorio cultural necesario para desenvolverte con elegancia en cualquier país. Además de la riqueza del libro físico, obtienes acceso al Oxford English Hub. Esto significa que tu escuela va contigo en el bolsillo. El portal unificado trae la herramienta Skills Confidence con ejercicios de corrección instantánea, videos prácticos con situaciones cotidianas y recursos modernos de entrenamiento de pronunciación. En el salón de clase, el profesor utiliza el Classroom Presentation Tool, haciendo que los encuentros sean dinámicos, visuales y totalmente conectados con la tecnología actual. Es la unión perfecta entre la tradición de Oxford y la modernidad digital. Como estamos celebrando la fundación de sampa.school y la apertura de nuestra sede oficial en la Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condiciones comerciales inéditas y absolutamente imperdibles. Esta es tu oportunidad única de formar parte de nuestro grupo pionero con valores promocionales de inauguración que nunca más se repetirán. La cuota de matrícula para asegurar tu cupo en el grupo es de solo R$ 78,00 pagada vía PIX. El valor de la inversión del módulo puede pagarse en 4 cuotas, con vencimiento fijo y simplificado para el día 7 de cada mes (de septiembre a diciembre de 2026) vía boleto bancario. Los cupos para los grupos de los miércoles (con inicio el 26 de agosto) están estrictamente limitados a 6 alumnos por salón para preservar la calidad premium del método. No dejes que la procrastinación te robe otro año de tu vida. Da el paso definitivo hacia tu libertad de comunicación. Asegura tu cupo y cambia tu destino con sampa.school. ¡El mundo está esperando tu voz!",
+        body: "La gran ventaja de esta colección es que las lecciones no se limitan a enseñar reglas gramaticales estériles. Cada unidad funciona como una verdadera ventana al mundo, trayendo textos, documentales y discusiones profundas sobre la cultura extranjera, los hábitos de diferentes países, la gastronomía internacional, el comportamiento social y la etiqueta corporativa global. Aprendes el idioma mientras absorbes el repertorio cultural necesario para desenvolverte con elegancia en cualquier país. Además de la riqueza del libro físico, obtienes acceso al Oxford English Hub. Esto significa que tu escuela va contigo en el bolsillo. El portal unificado trae la herramienta Skills Confidence con ejercicios de corrección instantánea, videos prácticos con situaciones cotidianas y recursos modernos de entrenamiento de pronunciación. En el salón de clase, el profesor utiliza el Classroom Presentation Tool, haciendo que los encuentros sean dinámicos, visuales y totalmente conectados con la tecnología actual. Es la unión perfecta entre la tradición de Oxford y la modernidad digital. Como estamos celebrando la fundación de sampa.school y la apertura de nuestra sede oficial en la Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condiciones comerciales inéditas y absolutamente imperdibles. Esta es tu oportunidad única de formar parte de nuestro grupo pionero con valores promocionales de inauguración que nunca más se repetirán. La cuota de matrícula para asegurar tu cupo en el grupo es de solo R$ 78,00 pagada vía PIX. El valor de la inversión del módulo puede pagarse en 4 cuotas, con vencimiento fijo y simplificado para el día 7 de cada mes (de septiembre a diciembre de 2026) vía boleto bancario. Los cupos para los grupos de los miércoles (con inicio el 02 de septiembre) están estrictamente limitados a 6 alumnos por salón para preservar la calidad premium del método. No dejes que la procrastinación te robe otro año de tu vida. Da el paso definitivo hacia tu libertad de comunicación. Asegura tu cupo y cambia tu destino con sampa.school. ¡El mundo está esperando tu voz!",
       },
     ],
   },
@@ -150,14 +150,13 @@ export const es: Dictionary = {
     calendarNote:
       "Las clases se dictan estrictamente los miércoles, con 100% de aprovechamiento de las fechas y libres de feriados:",
     calendar: [
-      { month: "Agosto", dates: "26", note: "Clase 01 – Clase Inaugural" },
-      { month: "Septiembre", dates: "02, 09, 16, 23 y 30", note: "Clases 02 a 06" },
-      { month: "Octubre", dates: "07, 14, 21 y 28", note: "Clases 07 a 10" },
-      { month: "Noviembre", dates: "04, 11, 18 y 25", note: "Clases 11 a 14" },
+      { month: "Septiembre", dates: "02, 09, 16, 23 y 30", note: "Clases 01 a 05" },
+      { month: "Octubre", dates: "07, 14, 21 y 28", note: "Clases 06 a 09" },
+      { month: "Noviembre", dates: "04, 11, 18 y 25", note: "Clases 10 a 13" },
       {
         month: "Diciembre",
-        dates: "02, 09 y 16",
-        note: "Clases 15, 16 + Examen Final y Celebración",
+        dates: "02, 09, 16 y 23",
+        note: "Clases 14 a 17 + Examen Final y Celebración",
       },
     ],
     timesTitle: "Grilla de Horarios Oficiales (todos los miércoles)",
@@ -221,7 +220,7 @@ export const es: Dictionary = {
       },
       {
         q: "¿Recibo algún certificado oficial al final del curso?",
-        a: "Sí. Al completar las 17 semanas de enfoque total y realizar el Examen Final el 16 de diciembre, recibirás el Certificado Oficial de Finalización de Nivel de sampa.school, avalado con el mapeo de competencias internacionales de Oxford University Press.",
+        a: "Sí. Al completar las 17 semanas de enfoque total y realizar el Examen Final el 23 de diciembre, recibirás el Certificado Oficial de Finalización de Nivel de sampa.school, avalado con el mapeo de competencias internacionales de Oxford University Press.",
       },
     ],
   },

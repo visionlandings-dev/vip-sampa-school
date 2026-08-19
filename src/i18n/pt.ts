@@ -45,7 +45,7 @@ export const pt = {
       },
       {
         title: "Cronograma Produtivo de 17 Semanas",
-        copy: "Nosso semestre letivo vai do fim de agosto até meados de dezembro. Mapeamos o calendário do segundo semestre de 2026 e não haverá nenhum feriado caindo em quartas-feiras. O seu ritmo de aprendizado e evolução não sofrerá nenhuma interrupção.",
+        copy: "Nosso semestre letivo vai de setembro até meados de dezembro. Mapeamos o calendário do segundo semestre de 2026 e não haverá nenhum feriado caindo em quartas-feiras. O seu ritmo de aprendizado e evolução não sofrerá nenhuma interrupção.",
       },
       {
         title: "Preço Transparente, Justo e Sem Surpresas",
@@ -137,7 +137,7 @@ export const pt = {
         preview:
           "O pilar que sustenta toda a excelência da sampa.school é a nossa aliança estratégica com a Oxford University Press. Ao adotarmos a novíssima 4ª Edição do American English File, garantimos que você tenha em mãos o ecossistema de ensino mais respeitado do mundo...",
         expandLabel: "+ Ler Manifesto Metodológico Completo",
-        body: "O grande trunfo dessa coleção é que as lições não se limitam a ensinar regras gramaticais estéreis. Cada unidade funciona como uma verdadeira janela para o mundo, trazendo textos, documentários e discussões profundas sobre a cultura estrangeira, hábitos de diferentes países, culinária internacional, comportamento social e etiqueta corporativa global. Você aprende o idioma enquanto absorve o repertório cultural necessário para transitar com elegância por qualquer país. Além da riqueza do livro físico, você ganha acesso ao Oxford English Hub. Isso significa que a sua escola vai com você no bolso. O portal unificado traz a ferramenta Skills Confidence com exercícios de correção instantânea, vídeos práticos com situações do cotidiano e recursos modernos de treino de pronúncia. Na sala de aula, o professor utiliza o Classroom Presentation Tool, tornando os encontros dinâmicos, visuais e totalmente conectados com a tecnologia atual. É a união perfeita entre a tradição de Oxford e a modernidade digital. Como estamos celebrando a fundação da sampa.school e a abertura da nossa sede oficial na Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condições comerciais inéditas e absolutamente imperdíveis. Esta é a sua oportunidade única de fazer parte da nossa turma pioneira com valores promocionais de inauguração que nunca mais serão repetidos. A taxa de matrícula para garantia de vaga na turma é de apenas R$ 78,00 paga via PIX. O valor do investimento do módulo pode ser parcelado em 4 vezes, com vencimento fixo e simplificado para todo dia 7 de cada mês (de setembro a dezembro de 2026) via boleto bancário. As vagas para as turmas de quarta-feira (com início em 26 de agosto) são estritamente limitadas a 6 alunos por sala para preservar a qualidade premium do método. Não permita que a procrastinação roube mais um ano da sua vida. Dê o passo definitivo em direção à sua liberdade de comunicação. Garanta sua vaga e mude o seu destino com a sampa.school. O mundo está esperando pela sua voz!",
+        body: "O grande trunfo dessa coleção é que as lições não se limitam a ensinar regras gramaticais estéreis. Cada unidade funciona como uma verdadeira janela para o mundo, trazendo textos, documentários e discussões profundas sobre a cultura estrangeira, hábitos de diferentes países, culinária internacional, comportamento social e etiqueta corporativa global. Você aprende o idioma enquanto absorve o repertório cultural necessário para transitar com elegância por qualquer país. Além da riqueza do livro físico, você ganha acesso ao Oxford English Hub. Isso significa que a sua escola vai com você no bolso. O portal unificado traz a ferramenta Skills Confidence com exercícios de correção instantânea, vídeos práticos com situações do cotidiano e recursos modernos de treino de pronúncia. Na sala de aula, o professor utiliza o Classroom Presentation Tool, tornando os encontros dinâmicos, visuais e totalmente conectados com a tecnologia atual. É a união perfeita entre a tradição de Oxford e a modernidade digital. Como estamos celebrando a fundação da sampa.school e a abertura da nossa sede oficial na Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, preparamos condições comerciais inéditas e absolutamente imperdíveis. Esta é a sua oportunidade única de fazer parte da nossa turma pioneira com valores promocionais de inauguração que nunca mais serão repetidos. A taxa de matrícula para garantia de vaga na turma é de apenas R$ 78,00 paga via PIX. O valor do investimento do módulo pode ser parcelado em 4 vezes, com vencimento fixo e simplificado para todo dia 7 de cada mês (de setembro a dezembro de 2026) via boleto bancário. As vagas para as turmas de quarta-feira (com início em 02 de setembro) são estritamente limitadas a 6 alunos por sala para preservar a qualidade premium do método. Não permita que a procrastinação roube mais um ano da sua vida. Dê o passo definitivo em direção à sua liberdade de comunicação. Garanta sua vaga e mude o seu destino com a sampa.school. O mundo está esperando pela sua voz!",
       },
     ],
   },
@@ -148,14 +148,13 @@ export const pt = {
     calendarNote:
       "As aulas ocorrem estritamente às quartas-feiras, com 100% de aproveitamento das datas e livre de feriados:",
     calendar: [
-      { month: "Agosto", dates: "26", note: "Aula 01 – Aula Inaugural" },
-      { month: "Setembro", dates: "02, 09, 16, 23 e 30", note: "Aulas 02 a 06" },
-      { month: "Outubro", dates: "07, 14, 21 e 28", note: "Aulas 07 a 10" },
-      { month: "Novembro", dates: "04, 11, 18 e 25", note: "Aulas 11 a 14" },
+      { month: "Setembro", dates: "02, 09, 16, 23 e 30", note: "Aulas 01 a 05" },
+      { month: "Outubro", dates: "07, 14, 21 e 28", note: "Aulas 06 a 09" },
+      { month: "Novembro", dates: "04, 11, 18 e 25", note: "Aulas 10 a 13" },
       {
         month: "Dezembro",
-        dates: "02, 09 e 16",
-        note: "Aulas 15, 16 + Prova Final e Confraternização",
+        dates: "02, 09, 16 e 23",
+        note: "Aulas 14 a 17 + Prova Final e Confraternização",
       },
     ],
     timesTitle: "Grade de Horários Oficiais (todas as quartas-feiras)",
@@ -219,7 +218,7 @@ export const pt = {
       },
       {
         q: "Eu ganho algum certificado oficial ao final do curso?",
-        a: "Sim. Ao concluir as 17 semanas de foco total e realizar a Prova Final no dia 16 de dezembro, você receberá o Certificado Oficial de Conclusão de Nível da sampa.school, chancelado com o mapeamento de competências internacionais da Oxford University Press.",
+        a: "Sim. Ao concluir as 17 semanas de foco total e realizar a Prova Final no dia 23 de dezembro, você receberá o Certificado Oficial de Conclusão de Nível da sampa.school, chancelado com o mapeamento de competências internacionais da Oxford University Press.",
       },
     ],
   },
