@@ -49,7 +49,7 @@ export const Route = createFileRoute("/")({
             addressRegion: "SP",
             addressCountry: "BR",
           },
-          telephone: "+55-11-93624-1913",
+          telephone: "+55-11-96105-7012",
         }),
       },
     ],
