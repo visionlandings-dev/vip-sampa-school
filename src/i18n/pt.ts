@@ -6,7 +6,7 @@ export const pt = {
     title:
       "sampa.school — Curso de Inglês em Interlagos com método Oxford",
     description:
-      "Turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos. Método American English File (Oxford), 17 semanas às quartas-feiras. Matrícula R$ 78.",
+      "Turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas às quartas-feiras. Matrícula R$ 78.",
   },
   nav: {
     languageLabel: "Idioma",
@@ -44,7 +44,7 @@ export const pt = {
         copy: "Esqueça livros defasados e debates antigos. Utilizamos a recém-lançada coleção American English File (4th Edition), o material para adultos mais vendido do planeta. Os temas de debates, áudios e vídeos cotidianos foram 100% reformulados com pautas e assuntos atuais do mundo de hoje.",
       },
       {
-        title: "Cronograma Produtivo de 17 Semanas",
+        title: "Cronograma Produtivo de 16 Semanas",
         copy: "Nosso semestre letivo vai de setembro até meados de dezembro. Mapeamos o calendário do segundo semestre de 2026 e não haverá nenhum feriado caindo em quartas-feiras. O seu ritmo de aprendizado e evolução não sofrerá nenhuma interrupção.",
       },
       {
@@ -144,7 +144,7 @@ export const pt = {
   schedule: {
     headingStart: "Calendário, grade de horários e ",
     headingHighlight: "investimento por lotes",
-    calendarTitle: "Calendário Oficial do Módulo Regular (17 Semanas)",
+    calendarTitle: "Calendário Oficial do Módulo Regular (16 Semanas)",
     calendarNote:
       "As aulas ocorrem estritamente às quartas-feiras, com 100% de aproveitamento das datas e livre de feriados:",
     calendar: [
@@ -153,8 +153,8 @@ export const pt = {
       { month: "Novembro", dates: "04, 11, 18 e 25", note: "Aulas 10 a 13" },
       {
         month: "Dezembro",
-        dates: "02, 09, 16 e 23",
-        note: "Aulas 14 a 17 + Prova Final e Confraternização",
+        dates: "02, 09 e 16",
+        note: "Aulas 14 a 16 + Prova Final e Confraternização",
       },
     ],
     timesTitle: "Grade de Horários Oficiais (todas as quartas-feiras)",
@@ -218,7 +218,7 @@ export const pt = {
       },
       {
         q: "Eu ganho algum certificado oficial ao final do curso?",
-        a: "Sim. Ao concluir as 17 semanas de foco total e realizar a Prova Final no dia 23 de dezembro, você receberá o Certificado Oficial de Conclusão de Nível da sampa.school, chancelado com o mapeamento de competências internacionais da Oxford University Press.",
+        a: "Sim. Ao concluir as 16 semanas de foco total e realizar a Prova Final no dia 16 de dezembro, você receberá o Certificado Oficial de Conclusão de Nível da sampa.school, chancelado com o mapeamento de competências internacionais da Oxford University Press.",
       },
     ],
   },

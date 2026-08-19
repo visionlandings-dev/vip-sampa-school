@@ -8,7 +8,7 @@ export const en: Dictionary = {
     title:
       "sampa.school — English Course in Interlagos with the Oxford Method",
     description:
-      "In-person classes of 4 to 6 students in Cidade Dutra, Interlagos. American English File (Oxford) method, 17 weeks on Wednesdays. Enrollment fee R$ 78.",
+      "In-person classes of 4 to 6 students in Cidade Dutra, Interlagos. American English File (Oxford) method, 16 weeks on Wednesdays. Enrollment fee R$ 78.",
   },
   nav: {
     languageLabel: "Language",
@@ -46,7 +46,7 @@ export const en: Dictionary = {
         copy: "Forget outdated books and stale discussion topics. We use the newly released American English File (4th Edition), the best-selling adult material on the planet. Debate themes, audio, and everyday videos have been 100% updated with today's most relevant topics.",
       },
       {
-        title: "A Productive 17-Week Schedule",
+        title: "A Productive 16-Week Schedule",
         copy: "Our semester runs from early September to mid-December. We've mapped out the second half of 2026's calendar and no holiday falls on a Wednesday. Your learning momentum won't face a single interruption.",
       },
       {
@@ -146,7 +146,7 @@ export const en: Dictionary = {
   schedule: {
     headingStart: "Calendar, class schedule, and ",
     headingHighlight: "batch pricing",
-    calendarTitle: "Official Regular Module Calendar (17 Weeks)",
+    calendarTitle: "Official Regular Module Calendar (16 Weeks)",
     calendarNote:
       "Classes happen strictly on Wednesdays, with 100% of dates used and no holidays in the way:",
     calendar: [
@@ -155,8 +155,8 @@ export const en: Dictionary = {
       { month: "November", dates: "04, 11, 18, and 25", note: "Classes 10 to 13" },
       {
         month: "December",
-        dates: "02, 09, 16, and 23",
-        note: "Classes 14 to 17 + Final Exam and Get-Together",
+        dates: "02, 09, and 16",
+        note: "Classes 14 to 16 + Final Exam and Get-Together",
       },
     ],
     timesTitle: "Official Class Schedule (every Wednesday)",
@@ -220,7 +220,7 @@ export const en: Dictionary = {
       },
       {
         q: "Do I get an official certificate at the end of the course?",
-        a: "Yes. Upon completing the 17 weeks of full focus and taking the Final Exam on December 23, you'll receive sampa.school's Official Level Completion Certificate, endorsed with the international skills mapping of Oxford University Press.",
+        a: "Yes. Upon completing the 16 weeks of full focus and taking the Final Exam on December 16, you'll receive sampa.school's Official Level Completion Certificate, endorsed with the international skills mapping of Oxford University Press.",
       },
     ],
   },
