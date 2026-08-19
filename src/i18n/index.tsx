@@ -31,9 +31,6 @@ function detectLang(): Lang {
   if (typeof window === "undefined") return "pt";
   const stored = window.localStorage.getItem(STORAGE_KEY);
   if (stored === "pt" || stored === "en" || stored === "es") return stored;
-  const nav = window.navigator.language?.toLowerCase() ?? "pt";
-  if (nav.startsWith("es")) return "es";
-  if (nav.startsWith("en")) return "en";
   return "pt";
 }
 
