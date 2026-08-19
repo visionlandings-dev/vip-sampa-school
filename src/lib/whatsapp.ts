@@ -7,7 +7,7 @@ export function waLink(message: string): string {
 export const waMessages = {
   hero: "Olá! Quero garantir minha vaga promocional na sampa.school (Lote Inaugural).",
   visit:
-    "Olá! Quero conhecer a sede da sampa.school na Cidade Dutra, Interlagos.",
+    "Olá! Quero conhecer a sede da sampa.school em São Paulo.",
   career: "Olá! Quero destravar meu inglês profissional na sampa.school.",
   schedule:
     "Olá! Quero reservar minha vaga e escolher meu horário na sampa.school.",

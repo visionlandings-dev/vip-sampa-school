@@ -8,7 +8,7 @@ export function Header() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:gap-4">
         <img
           src={logoSchool.url}
-          alt="sampa.school — escola de inglês em Interlagos"
+          alt="sampa.school — curso de inglês com método Oxford"
           className="h-8 w-auto shrink-0 sm:h-10"
           width={152}
           height={64}

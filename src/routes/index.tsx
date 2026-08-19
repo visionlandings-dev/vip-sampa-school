@@ -14,13 +14,13 @@ import { Footer } from "@/components/landing/Footer";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "sampa.school — Inglês presencial em Interlagos, SP" },
+      { title: "sampa.school — Curso de Inglês com método Oxford" },
       {
         name: "description",
         content:
-          "Destrave seu inglês ainda este ano: turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos, com o método Oxford American English File 4ª Edição. Matrícula R$ 128 e Lote Inaugural 4x R$ 225.",
+          "Destrave seu inglês ainda este ano: turmas presenciais ultra reduzidas (4 a 6 alunos) e turmas 100% online com o método Oxford American English File 4ª Edição. Matrícula R$ 128 e Lote Inaugural 4x R$ 225.",
       },
-      { property: "og:title", content: "sampa.school — Inglês presencial em Interlagos, SP" },
+      { property: "og:title", content: "sampa.school — Curso de Inglês com método Oxford" },
       {
         property: "og:description",
         content:
@@ -40,7 +40,7 @@ export const Route = createFileRoute("/")({
           "@type": "EducationalOrganization",
           name: "sampa.school",
           description:
-            "Escola de inglês presencial em Interlagos, São Paulo. Turmas de 4 a 6 alunos com método Oxford American English File.",
+            "Escola de inglês com turmas presenciais ultra reduzidas (4 a 6 alunos) e turmas 100% online. Método Oxford American English File.",
           memberOf: { "@type": "Organization", name: "sampa.group" },
           address: {
             "@type": "PostalAddress",
