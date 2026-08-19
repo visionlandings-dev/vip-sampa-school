@@ -148,14 +148,13 @@ export const pt = {
     calendarNote:
       "As aulas ocorrem estritamente às quartas-feiras, com 100% de aproveitamento das datas e livre de feriados:",
     calendar: [
-      { month: "Agosto", dates: "26", note: "Aula 01 – Aula Inaugural" },
-      { month: "Setembro", dates: "02, 09, 16, 23 e 30", note: "Aulas 02 a 06" },
-      { month: "Outubro", dates: "07, 14, 21 e 28", note: "Aulas 07 a 10" },
-      { month: "Novembro", dates: "04, 11, 18 e 25", note: "Aulas 11 a 14" },
+      { month: "Setembro", dates: "02, 09, 16, 23 e 30", note: "Aulas 01 a 05" },
+      { month: "Outubro", dates: "07, 14, 21 e 28", note: "Aulas 06 a 09" },
+      { month: "Novembro", dates: "04, 11, 18 e 25", note: "Aulas 10 a 13" },
       {
         month: "Dezembro",
-        dates: "02, 09 e 16",
-        note: "Aulas 15, 16 + Prova Final e Confraternização",
+        dates: "02, 09, 16 e 23",
+        note: "Aulas 14 a 17 + Prova Final e Confraternização",
       },
     ],
     timesTitle: "Grade de Horários Oficiais (todas as quartas-feiras)",
@@ -219,7 +218,7 @@ export const pt = {
       },
       {
         q: "Eu ganho algum certificado oficial ao final do curso?",
-        a: "Sim. Ao concluir as 17 semanas de foco total e realizar a Prova Final no dia 16 de dezembro, você receberá o Certificado Oficial de Conclusão de Nível da sampa.school, chancelado com o mapeamento de competências internacionais da Oxford University Press.",
+        a: "Sim. Ao concluir as 17 semanas de foco total e realizar a Prova Final no dia 23 de dezembro, você receberá o Certificado Oficial de Conclusão de Nível da sampa.school, chancelado com o mapeamento de competências internacionais da Oxford University Press.",
       },
     ],
   },

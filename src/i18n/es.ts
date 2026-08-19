@@ -47,7 +47,7 @@ export const es: Dictionary = {
       },
       {
         title: "Cronograma Productivo de 17 Semanas",
-        copy: "Nuestro semestre lectivo va de fines de agosto a mediados de diciembre. Mapeamos el calendario del segundo semestre de 2026 y no habrá ningún feriado cayendo en miércoles. Tu ritmo de aprendizaje y evolución no sufrirá ninguna interrupción.",
+        copy: "Nuestro semestre lectivo va de principios de septiembre a mediados de diciembre. Mapeamos el calendario del segundo semestre de 2026 y no habrá ningún feriado cayendo en miércoles. Tu ritmo de aprendizaje y evolución no sufrirá ninguna interrupción.",
       },
       {
         title: "Precio Transparente, Justo y Sin Sorpresas",
@@ -150,14 +150,13 @@ export const es: Dictionary = {
     calendarNote:
       "Las clases se dictan estrictamente los miércoles, con 100% de aprovechamiento de las fechas y libres de feriados:",
     calendar: [
-      { month: "Agosto", dates: "26", note: "Clase 01 – Clase Inaugural" },
-      { month: "Septiembre", dates: "02, 09, 16, 23 y 30", note: "Clases 02 a 06" },
-      { month: "Octubre", dates: "07, 14, 21 y 28", note: "Clases 07 a 10" },
-      { month: "Noviembre", dates: "04, 11, 18 y 25", note: "Clases 11 a 14" },
+      { month: "Septiembre", dates: "02, 09, 16, 23 y 30", note: "Clases 01 a 05" },
+      { month: "Octubre", dates: "07, 14, 21 y 28", note: "Clases 06 a 09" },
+      { month: "Noviembre", dates: "04, 11, 18 y 25", note: "Clases 10 a 13" },
       {
         month: "Diciembre",
-        dates: "02, 09 y 16",
-        note: "Clases 15, 16 + Examen Final y Celebración",
+        dates: "02, 09, 16 y 23",
+        note: "Clases 14 a 17 + Examen Final y Celebración",
       },
     ],
     timesTitle: "Grilla de Horarios Oficiales (todos los miércoles)",
@@ -221,7 +220,7 @@ export const es: Dictionary = {
       },
       {
         q: "¿Recibo algún certificado oficial al final del curso?",
-        a: "Sí. Al completar las 17 semanas de enfoque total y realizar el Examen Final el 16 de diciembre, recibirás el Certificado Oficial de Finalización de Nivel de sampa.school, avalado con el mapeo de competencias internacionales de Oxford University Press.",
+        a: "Sí. Al completar las 17 semanas de enfoque total y realizar el Examen Final el 23 de diciembre, recibirás el Certificado Oficial de Finalización de Nivel de sampa.school, avalado con el mapeo de competencias internacionales de Oxford University Press.",
       },
     ],
   },

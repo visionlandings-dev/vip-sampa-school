@@ -47,7 +47,7 @@ export const en: Dictionary = {
       },
       {
         title: "A Productive 17-Week Schedule",
-        copy: "Our semester runs from late August to mid-December. We've mapped out the second half of 2026's calendar and no holiday falls on a Wednesday. Your learning momentum won't face a single interruption.",
+        copy: "Our semester runs from early September to mid-December. We've mapped out the second half of 2026's calendar and no holiday falls on a Wednesday. Your learning momentum won't face a single interruption.",
       },
       {
         title: "Transparent, Fair Pricing with No Surprises",
@@ -150,14 +150,13 @@ export const en: Dictionary = {
     calendarNote:
       "Classes happen strictly on Wednesdays, with 100% of dates used and no holidays in the way:",
     calendar: [
-      { month: "August", dates: "26", note: "Class 01 – Opening Class" },
-      { month: "September", dates: "02, 09, 16, 23, and 30", note: "Classes 02 to 06" },
-      { month: "October", dates: "07, 14, 21, and 28", note: "Classes 07 to 10" },
-      { month: "November", dates: "04, 11, 18, and 25", note: "Classes 11 to 14" },
+      { month: "September", dates: "02, 09, 16, 23, and 30", note: "Classes 01 to 05" },
+      { month: "October", dates: "07, 14, 21, and 28", note: "Classes 06 to 09" },
+      { month: "November", dates: "04, 11, 18, and 25", note: "Classes 10 to 13" },
       {
         month: "December",
-        dates: "02, 09, and 16",
-        note: "Classes 15, 16 + Final Exam and Get-Together",
+        dates: "02, 09, 16, and 23",
+        note: "Classes 14 to 17 + Final Exam and Get-Together",
       },
     ],
     timesTitle: "Official Class Schedule (every Wednesday)",
@@ -221,7 +220,7 @@ export const en: Dictionary = {
       },
       {
         q: "Do I get an official certificate at the end of the course?",
-        a: "Yes. Upon completing the 17 weeks of full focus and taking the Final Exam on December 16, you'll receive sampa.school's Official Level Completion Certificate, endorsed with the international skills mapping of Oxford University Press.",
+        a: "Yes. Upon completing the 17 weeks of full focus and taking the Final Exam on December 23, you'll receive sampa.school's Official Level Completion Certificate, endorsed with the international skills mapping of Oxford University Press.",
       },
     ],
   },
