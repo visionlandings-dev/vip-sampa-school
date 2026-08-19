@@ -22,6 +22,7 @@ export function Manifestos() {
               title={`${i + 1}. ${m.title}`}
               preview={m.preview}
               expandLabel={m.expandLabel}
+              collapseLabel={t.expandable.collapse}
             >
               <p>{m.body}</p>
             </Expandable>
