@@ -18,7 +18,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Destrave seu inglês ainda este ano: turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos, com o método Oxford American English File 4ª Edição. Matrícula R$ 78 e Lote Inaugural 4x R$ 225.",
+          "Destrave seu inglês ainda este ano: turmas presenciais de 4 a 6 alunos na Cidade Dutra, Interlagos, com o método Oxford American English File 4ª Edição. Matrícula R$ 128 e Lote Inaugural 4x R$ 225.",
       },
       { property: "og:title", content: "sampa.school — Inglês presencial em Interlagos, SP" },
       {

@@ -8,7 +8,7 @@ export const en: Dictionary = {
     title:
       "sampa.school — English Course in Interlagos with the Oxford Method",
     description:
-      "In-person classes of 4 to 6 students in Cidade Dutra, Interlagos. American English File (Oxford) method, 16 weeks on Wednesdays. Enrollment fee R$ 78.",
+      "In-person classes of 4 to 6 students in Cidade Dutra, Interlagos. American English File (Oxford) method, 16 weeks on Wednesdays. Enrollment fee R$ 128.",
   },
   nav: {
     languageLabel: "Language",
@@ -51,7 +51,7 @@ export const en: Dictionary = {
       },
       {
         title: "Transparent, Fair Pricing with No Surprises",
-        copy: "No abusive loyalty contracts or hidden fees. A one-time enrollment fee of R$ 78,00 in August. Fixed promotional tuition with an on-time payment bonus. The promotional rate is exclusive to the first 30 spots.",
+        copy: "No abusive loyalty contracts or hidden fees. A one-time enrollment fee of R$ 128,00 in August. Fixed promotional tuition with an on-time payment bonus. The promotional rate is exclusive to the first 30 spots.",
       },
     ],
     cta: "SEND A MESSAGE AND COME VISIT OUR CAMPUS",
@@ -139,7 +139,7 @@ export const en: Dictionary = {
         preview:
           "The pillar that supports all of sampa.school's excellence is our strategic alliance with Oxford University Press. By adopting the brand-new 4th Edition of American English File, we guarantee you have in your hands the most respected teaching ecosystem in the world...",
         expandLabel: "+ Read the Full Methodology Manifesto",
-        body: "The great advantage of this collection is that its lessons aren't limited to teaching sterile grammar rules. Each unit acts as a true window to the world, bringing texts, documentaries, and in-depth discussions on foreign culture, habits from different countries, international cuisine, social behavior, and global corporate etiquette. You learn the language while absorbing the cultural repertoire needed to move confidently through any country. Beyond the richness of the physical book, you get access to the Oxford English Hub. This means your school travels with you in your pocket. The unified portal brings the Skills Confidence tool with instant-feedback exercises, practical videos with everyday situations, and modern pronunciation training resources. In the classroom, the teacher uses the Classroom Presentation Tool, making sessions dynamic, visual, and fully connected to today's technology. It's the perfect union between Oxford's tradition and digital modernity. As we celebrate the founding of sampa.school and the opening of our official campus at Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, we've prepared unprecedented, absolutely can't-miss commercial conditions. This is your unique chance to be part of our pioneer class with launch promotional rates that will never be repeated again. The enrollment fee to secure your spot in the class is just R$ 78,00, paid via PIX. The module investment can be split into 4 installments, with a fixed, simplified due date on the 7th of every month (from September to December 2026) via bank slip. Spots for the Wednesday classes (starting September 02) are strictly limited to 6 students per room to preserve the premium quality of the method. Don't let procrastination steal another year of your life. Take the definitive step toward your freedom of communication. Secure your spot and change your destiny with sampa.school. The world is waiting for your voice!",
+        body: "The great advantage of this collection is that its lessons aren't limited to teaching sterile grammar rules. Each unit acts as a true window to the world, bringing texts, documentaries, and in-depth discussions on foreign culture, habits from different countries, international cuisine, social behavior, and global corporate etiquette. You learn the language while absorbing the cultural repertoire needed to move confidently through any country. Beyond the richness of the physical book, you get access to the Oxford English Hub. This means your school travels with you in your pocket. The unified portal brings the Skills Confidence tool with instant-feedback exercises, practical videos with everyday situations, and modern pronunciation training resources. In the classroom, the teacher uses the Classroom Presentation Tool, making sessions dynamic, visual, and fully connected to today's technology. It's the perfect union between Oxford's tradition and digital modernity. As we celebrate the founding of sampa.school and the opening of our official campus at Rua Cristóvão Colombo Gonçalves, 422 – Cidade Dutra, Interlagos, we've prepared unprecedented, absolutely can't-miss commercial conditions. This is your unique chance to be part of our pioneer class with launch promotional rates that will never be repeated again. The enrollment fee to secure your spot in the class is just R$ 128,00, paid via PIX. The module investment can be split into 4 installments, with a fixed, simplified due date on the 7th of every month (from September to December 2026) via bank slip. Spots for the Wednesday classes (starting September 02) are strictly limited to 6 students per room to preserve the premium quality of the method. Don't let procrastination steal another year of your life. Take the definitive step toward your freedom of communication. Secure your spot and change your destiny with sampa.school. The world is waiting for your voice!",
       },
     ],
   },
@@ -161,7 +161,6 @@ export const en: Dictionary = {
     ],
     timesTitle: "Official Class Schedule (every Wednesday)",
     times: [
-      "1:45 PM to 3:05 PM",
       "3:15 PM to 4:35 PM",
       "4:50 PM to 6:10 PM",
       "6:30 PM to 7:50 PM",
@@ -171,7 +170,7 @@ export const en: Dictionary = {
       "The ideal level for your class is determined during your consultation with our coordination team.",
     lotsTitle: "The Commercial Batch Model and On-Time Payment Bonus",
     enrollLabel: "Fixed enrollment fee (all students):",
-    enrollValue: "R$ 78,00",
+    enrollValue: "R$ 128,00",
     enrollNote: "Paid upfront via PIX to reserve and secure your spot.",
     lotBadge: "Last spots in the Founding Batch",
     lot1Title: "Founding Batch (students 1 to 30)",
@@ -236,7 +235,6 @@ export const en: Dictionary = {
     timeLabel: "Which day and time do you prefer?",
     timePlaceholder: "Select a time",
     timeOptions: [
-      "Wednesdays | 1:45 PM to 3:05 PM",
       "Wednesdays | 3:15 PM to 4:35 PM",
       "Wednesdays | 4:50 PM to 6:10 PM",
       "Wednesdays | 6:30 PM to 7:50 PM",
