@@ -39,7 +39,7 @@ export const es: Dictionary = {
     items: [
       {
         title: "Clases Ultra Reducidas (4 a 6 alumnos)",
-        copy: "Las escuelas tradicionales meten de 15 a 20 personas en el salón. En sampa.school, nuestro límite estricto es de máximo 6 alumnos por salón. Esto garantiza que tengas espacio real para hablar y practiques conversación activa en el 100% del tiempo de clase.",
+        copy: "Las escuelas tradicionales meten de 15 a 20 personas en el salón. En sampa.school, nuestro límite estricto es de máximo 6 alumnos por grupo. Eliges entre la clase presencial de 4 a 6 alumnos o la clase 100% online en vivo, siempre con profesor y foco total en conversación.",
       },
       {
         title: "Alianza Internacional Oxford (4ª Edición + Hub)",
@@ -54,7 +54,7 @@ export const es: Dictionary = {
         copy: "Sin contratos de permanencia abusivos ni tarifas ocultas. Cuota de matrícula única de R$ 128,00 en agosto. Mensualidades fijas promocionales con bono de puntualidad para pagos al día. El valor promocional es exclusivo para los primeros 30 cupos.",
       },
     ],
-    cta: "MANDA UN MENSAJE Y VEN A CONOCER LA SEDE",
+    cta: "HABLA CON NOSOTROS Y ELIGE TU FORMATO",
   },
   ecosystem: {
     headingStart: "Nadie aprende a nadar fuera del agua. ",
@@ -216,6 +216,10 @@ export const es: Dictionary = {
       {
         q: "¿Dónde se dictan las clases presenciales? ¿Tienen fácil acceso?",
         a: "Nuestra sede física oficial está en la Rua Cristóvão Colombo Gonçalves, 422. Es un espacio con total seguridad y fácil acceso para que llegues y te enfoques 100% en tu clase.",
+      },
+      {
+        q: "¿Las clases online son en vivo o grabadas?",
+        a: "100% en vivo, con profesor e interacción real, con la misma metodología Oxford de las clases presenciales.",
       },
       {
         q: "¿Recibo algún certificado oficial al final del curso?",

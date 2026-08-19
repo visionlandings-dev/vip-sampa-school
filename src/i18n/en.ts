@@ -39,7 +39,7 @@ export const en: Dictionary = {
     items: [
       {
         title: "Ultra-Small Classes (4 to 6 Students)",
-        copy: "Traditional schools pack 15 to 20 people into a classroom. At sampa.school, our strict cap is 6 students per class. This guarantees you real room to speak and practice active conversation 100% of class time.",
+        copy: "Traditional schools pack 15 to 20 people into a classroom. At sampa.school, our strict cap is 6 students per group. You choose between the in-person class of 4 to 6 students or the 100% online live class, always with a teacher and full focus on conversation.",
       },
       {
         title: "International Oxford Partnership (4th Edition + Hub)",
@@ -54,7 +54,7 @@ export const en: Dictionary = {
         copy: "No abusive loyalty contracts or hidden fees. A one-time enrollment fee of R$ 128,00 in August. Fixed promotional tuition with an on-time payment bonus. The promotional rate is exclusive to the first 30 spots.",
       },
     ],
-    cta: "SEND A MESSAGE AND COME VISIT OUR CAMPUS",
+    cta: "TALK TO US AND CHOOSE YOUR FORMAT",
   },
   ecosystem: {
     headingStart: "No one learns to swim outside the water. ",
@@ -216,6 +216,10 @@ export const en: Dictionary = {
       {
         q: "Where do in-person classes take place? Is it easy to get to?",
         a: "Our official campus is located at Rua Cristóvão Colombo Gonçalves, 422. It's a safe, easily accessible space so you can arrive and focus 100% on your class.",
+      },
+      {
+        q: "Are the online classes live or recorded?",
+        a: "100% live, with a teacher and real interaction, using the same Oxford methodology as the in-person classes.",
       },
       {
         q: "Do I get an official certificate at the end of the course?",
