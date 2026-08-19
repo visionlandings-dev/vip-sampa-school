@@ -8,7 +8,7 @@ export const es: Dictionary = {
     title:
       "sampa.school — Curso de Inglés en Interlagos con método Oxford",
     description:
-      "Clases presenciales de 4 a 6 alumnos en Cidade Dutra, Interlagos. Método American English File (Oxford), 17 semanas los miércoles. Matrícula R$ 78.",
+      "Clases presenciales de 4 a 6 alumnos en Cidade Dutra, Interlagos. Método American English File (Oxford), 16 semanas los miércoles. Matrícula R$ 78.",
   },
   nav: {
     languageLabel: "Idioma",
@@ -46,7 +46,7 @@ export const es: Dictionary = {
         copy: "Olvídate de libros anticuados y debates viejos. Utilizamos la recién lanzada colección American English File (4th Edition), el material para adultos más vendido del planeta. Los temas de debate, audios y videos cotidianos fueron 100% renovados con agendas y asuntos actuales del mundo de hoy.",
       },
       {
-        title: "Cronograma Productivo de 17 Semanas",
+        title: "Cronograma Productivo de 16 Semanas",
         copy: "Nuestro semestre lectivo va de principios de septiembre a mediados de diciembre. Mapeamos el calendario del segundo semestre de 2026 y no habrá ningún feriado cayendo en miércoles. Tu ritmo de aprendizaje y evolución no sufrirá ninguna interrupción.",
       },
       {
@@ -146,7 +146,7 @@ export const es: Dictionary = {
   schedule: {
     headingStart: "Calendario, horarios y ",
     headingHighlight: "inversión por lotes",
-    calendarTitle: "Calendario Oficial del Módulo Regular (17 Semanas)",
+    calendarTitle: "Calendario Oficial del Módulo Regular (16 Semanas)",
     calendarNote:
       "Las clases se dictan estrictamente los miércoles, con 100% de aprovechamiento de las fechas y libres de feriados:",
     calendar: [
@@ -155,8 +155,8 @@ export const es: Dictionary = {
       { month: "Noviembre", dates: "04, 11, 18 y 25", note: "Clases 10 a 13" },
       {
         month: "Diciembre",
-        dates: "02, 09, 16 y 23",
-        note: "Clases 14 a 17 + Examen Final y Celebración",
+        dates: "02, 09 y 16",
+        note: "Clases 14 a 16 + Examen Final y Celebración",
       },
     ],
     timesTitle: "Grilla de Horarios Oficiales (todos los miércoles)",
@@ -220,7 +220,7 @@ export const es: Dictionary = {
       },
       {
         q: "¿Recibo algún certificado oficial al final del curso?",
-        a: "Sí. Al completar las 17 semanas de enfoque total y realizar el Examen Final el 23 de diciembre, recibirás el Certificado Oficial de Finalización de Nivel de sampa.school, avalado con el mapeo de competencias internacionales de Oxford University Press.",
+        a: "Sí. Al completar las 16 semanas de enfoque total y realizar el Examen Final el 16 de diciembre, recibirás el Certificado Oficial de Finalización de Nivel de sampa.school, avalado con el mapeo de competencias internacionales de Oxford University Press.",
       },
     ],
   },
