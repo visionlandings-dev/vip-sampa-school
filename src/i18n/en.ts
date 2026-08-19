@@ -245,7 +245,7 @@ export const en: Dictionary = {
       "Wednesdays | 8:00 PM to 9:20 PM",
       "Another day and time",
     ],
-    submit: "SEND AND RESERVE MY LAUNCH SPOT",
+    submit: "SEND AND RESERVE MY SPOT",
     errorName: "Please enter your full name",
     errorNameLong: "Name is too long",
     errorPhone: "Please enter a valid WhatsApp number with area code",

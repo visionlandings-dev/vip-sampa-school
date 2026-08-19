@@ -243,7 +243,7 @@ export const pt = {
       "Quartas-feiras | 20h00 às 21h20",
       "Outro dia e horário",
     ],
-    submit: "ENVIAR E RESERVAR MINHA VAGA DE INAUGURAÇÃO",
+    submit: "ENVIAR E RESERVAR MINHA VAGA",
     errorName: "Informe seu nome completo",
     errorNameLong: "Nome muito longo",
     errorPhone: "Informe um WhatsApp válido com DDD",
