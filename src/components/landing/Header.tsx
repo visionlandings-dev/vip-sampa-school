@@ -1,13 +1,14 @@
-import logoSchool from "@/assets/sampa-school.png.asset.json";
-import logoGroup from "@/assets/sampa-group.png.asset.json";
 import { LanguageSwitcher } from "./LanguageSwitcher";
+
+const logoSchool = "/logo-sampa-school.png";
+const logoGroup = "/logo-sampa-group.png";
 
 export function Header() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-white/10 bg-grafite/95 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:gap-4">
         <img
-          src={logoSchool.url}
+          src={logoSchool}
           alt="sampa.school — curso de inglês com método Oxford"
           className="h-8 w-auto shrink-0 sm:h-10"
           width={152}
@@ -15,7 +16,7 @@ export function Header() {
         />
         <div className="flex items-center gap-3 sm:gap-5">
           <img
-            src={logoGroup.url}
+            src={logoGroup}
             alt="sampa.group"
             className="hidden h-8 w-auto opacity-90 sm:block sm:h-9"
             width={138}
